@@ -55,8 +55,12 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 -	Keep Jumper JP7 towards +5V position.
 -	Remove fiber cable from SFH756V (660nm) and slightly unscrew the cap of SFH450V (950nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
 -	Observe the detected signal at post TTL OUT on oscilloscope.
- 
 
+ <img width="807" height="292" alt="image" src="https://github.com/user-attachments/assets/555266e6-4463-4575-9228-af922dc5ef07" />
+
+<img width="814" height="295" alt="image" src="https://github.com/user-attachments/assets/c0ddb196-3a74-4207-838f-02acd4463620" />
+
+<img width="838" height="303" alt="image" src="https://github.com/user-attachments/assets/476ebb27-ef1f-4719-8096-006f979821e8" />
 
 ---
 
